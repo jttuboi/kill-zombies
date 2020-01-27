@@ -9,4 +9,4 @@ Simple shoot game. I did to learn how to develop in the Godot engine. I used God
 
 ## License
 
-This project is licensed the same license of the tutorial.
+This project is licensed under the MIT License.
